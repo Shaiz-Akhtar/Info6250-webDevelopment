@@ -1,5 +1,5 @@
 # Info6250-webDevelopment
-
+Maven project
 
 Adminlogin:
 
